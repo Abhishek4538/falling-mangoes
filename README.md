@@ -1,1 +1,2 @@
-# falling-mangoes
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
